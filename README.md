@@ -11,6 +11,7 @@ machine learning models, and the data pipelines that feed them.
 <a href="https://www.linkedin.com/in/abhi0404/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:kumarabhishek82929@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://leetcode.com/u/itsabhishekkr/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<img src="https://img.shields.io/badge/WhatsApp-%40abhi____0404-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp username: @abhi__0404" title="WhatsApp username: @abhi__0404">
 
 </div>
 
