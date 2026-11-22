@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Abhishek Kumar 👋
+# Hi, I'm Abhishek Kumar <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Waving%20hand/Default/3D/waving_hand_3d_default.png" width="36" alt="">
 
 **AI / ML Engineer &nbsp;·&nbsp; GenAI & Agentic Systems &nbsp;·&nbsp; Data Engineering**
 
@@ -20,7 +20,7 @@ machine learning models, and the data pipelines that feed them.
 <tr>
 <td width="34%" valign="top">
 
-### 🎓 Education
+### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Graduation%20cap/3D/graduation_cap_3d.png" width="26" alt=""> Education
 
 **IIT Madras**<br>
 Undergraduate · Data Science & Applications
@@ -28,7 +28,7 @@ Undergraduate · Data Science & Applications
 </td>
 <td width="33%" valign="top">
 
-### 🎯 Focus
+### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bullseye/3D/bullseye_3d.png" width="26" alt=""> Focus
 
 GenAI & agentic AI<br>
 Machine learning & deep learning<br>
@@ -37,7 +37,7 @@ Data engineering
 </td>
 <td width="33%" valign="top">
 
-### 🤝 Leadership
+### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Handshake/3D/handshake_3d.png" width="26" alt=""> Leadership
 
 **Sponsorship Super Coordinator**, Paradox '25, IIT Madras<br>
 25+ partners · 50+ events · 6,000+ attendees
@@ -46,13 +46,13 @@ Data engineering
 </tr>
 </table>
 
-## Recognition
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Trophy/3D/trophy_3d.png" width="28" alt=""> Recognition
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
-<h1>🏆</h1>
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Trophy/3D/trophy_3d.png" width="72" alt="Trophy">
 
 **Top 10 Finalist**<br>
 Kaya AI IIT India Hackathon 2026
@@ -62,7 +62,7 @@ Kaya AI IIT India Hackathon 2026
 </td>
 <td width="33%" align="center" valign="top">
 
-<h1>🏁</h1>
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Chequered%20flag/3D/chequered_flag_3d.png" width="72" alt="Chequered flag">
 
 **Finalist**<br>
 TrackShift F1 Innovation Challenge 2026
@@ -70,7 +70,7 @@ TrackShift F1 Innovation Challenge 2026
 </td>
 <td width="33%" align="center" valign="top">
 
-<h1>⚡</h1>
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/3D/high_voltage_3d.png" width="72" alt="Lightning">
 
 **400+ DSA problems**<br>
 LeetCode · TUF
@@ -81,7 +81,7 @@ LeetCode · TUF
 </tr>
 </table>
 
-## Selected Work
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="28" alt=""> Selected Work
 
 <table>
 <tr>
@@ -175,7 +175,7 @@ Benchmarked against Random Forest and Linear Regression
 
 </details>
 
-## 🛠️ Building Now
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/3D/hammer_and_wrench_3d.png" width="28" alt=""> Building Now
 
 - **Cricket tournament platform**: an Android fan app (Expo), an OBS scorer console with live broadcast overlays (Next.js), and a shared scoring engine on Supabase.
 - **Sprout** (Google #BuildHybridAI 2026): an AI assistant for kids that runs on the device with guardrails, using Firebase AI Logic hybrid inference.
