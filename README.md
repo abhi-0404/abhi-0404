@@ -50,7 +50,17 @@ Data engineering
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/1st%20place%20medal/3D/1st_place_medal_3d.png" width="72" alt="First place medal">
+
+**Winner · $2,000**<br>
+[Flip the Switch Hackathon 2026](https://www.linkedin.com/feed/update/urn:li:activity:7531071167370178560/)
+
+<sub>Best Personal or Creative Workflow · 7,000+ builders</sub>
+
+</td>
+<td width="25%" align="center" valign="top">
 
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Trophy/3D/trophy_3d.png" width="72" alt="Trophy">
 
@@ -60,7 +70,7 @@ Kaya AI IIT India Hackathon 2026
 <sub>Smart-glasses safety assistant</sub>
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Chequered%20flag/3D/chequered_flag_3d.png" width="72" alt="Chequered flag">
 
@@ -68,7 +78,7 @@ Kaya AI IIT India Hackathon 2026
 TrackShift F1 Innovation Challenge 2026
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/3D/high_voltage_3d.png" width="72" alt="Lightning">
 
@@ -87,6 +97,19 @@ LeetCode · TUF
 <tr>
 <td width="50%" valign="top">
 
+### 🫶 [CareCircle: AI Agents With a Human in the Loop](https://github.com/abhi-0404/carecircle)
+
+AI agents handle an aging parent's prescriptions, doctor visits and shared bills. **Code verifies every word the AI transcribes**, and a family member approves each change before it is recorded.
+
+🥇 **Winner**, Best Personal or Creative Workflow ($2,000), Flip the Switch Hackathon 2026
+
+**140 tests** · CI on Linux and Windows
+
+`Python` `AI agents` `WebSockets` `pytest` `GitHub Actions`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🦺 [Kaya AI: Smart-Glasses Safety Assistant](https://github.com/abhi-0404/KayaAi_Dashboard)
 
 Watches a construction site through the worker's glasses and **warns them by voice the moment it spots a hazard**. It also answers blueprint and inventory questions hands-free. It has an Android client and a live supervisor dashboard, and runs on Cloud Run.
@@ -96,6 +119,8 @@ Watches a construction site through the worker's glasses and **warns them by voi
 `Gemini Live` `Google ADK` `FastAPI` `WebSockets` `Kotlin` `Supabase`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧭 [OmniSupply: Multi-Agent Supply Chain Intelligence](https://github.com/abhi-0404/OmniSupply-AI-Multi-Agent-Supply-Chain-Intelligence-Platform)
@@ -105,19 +130,6 @@ A supervisor routes business questions to **5 specialist LangGraph agents**. The
 Text-to-SQL with self-correction · hybrid SQL + vector retrieval
 
 `LangGraph` `Gemini` `PostgreSQL` `ChromaDB` `Streamlit` `Opik`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🫶 [CareCircle: AI Agents With a Human in the Loop](https://github.com/abhi-0404/carecircle)
-
-AI agents handle an aging parent's prescriptions, doctor visits and shared bills. **Code verifies every word the AI transcribes**, and a family member approves each change before it is recorded.
-
-**140 tests** · CI on Linux and Windows · Flip the Switch Hackathon 2026
-
-`Python` `AI agents` `WebSockets` `pytest` `GitHub Actions`
 
 </td>
 <td width="50%" valign="top">
